@@ -12,13 +12,13 @@ struct BoardView: View {
         VStack {
             HStack(spacing: 120) {
                 Button(action: {
-                    
+                    //ativar score view as sheet
                 }, label: {
                     ThinButtonLabel(title: "Placar")
                 })
                 .padding(.horizontal)
                 Button(action: {
-                    
+                    //reset the game
                 }, label: {
                     ThinButtonLabel(title: "Novo")
                 })
@@ -44,13 +44,13 @@ struct BoardView: View {
                 .foregroundColor(.primary)
             HStack(spacing: 50) {
                 Button(action: {
-                    
+                    //consider the bottom of the given dice value
                 }, label: {
                     Embaixo()
                 })
                 
                 Button(action: {
-                    
+                    //rolar os dados, increment # of rolls
                 }, label: {
                     ButtonLabel(title: "Rolar os Dados")
                 })

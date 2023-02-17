@@ -22,7 +22,7 @@ struct HomeView: View {
                 .padding()
             Spacer()
             Button(action: {
-                
+                // start the game moving to BoardView
             }, label: {
                 ButtonLabel(title: "Jogar")
             })

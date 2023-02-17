@@ -21,6 +21,7 @@
 		2480A223297B52330004D74B /* ThinButtonLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2480A222297B52320004D74B /* ThinButtonLabel.swift */; };
 		2480A225297B53690004D74B /* ScoreDices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2480A224297B53690004D74B /* ScoreDices.swift */; };
 		2480A227297B56C50004D74B /* Embaixo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2480A226297B56C50004D74B /* Embaixo.swift */; };
+		2480A22929A030370004D74B /* HistoryDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2480A22829A030370004D74B /* HistoryDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		2480A222297B52320004D74B /* ThinButtonLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThinButtonLabel.swift; sourceTree = "<group>"; };
 		2480A224297B53690004D74B /* ScoreDices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreDices.swift; sourceTree = "<group>"; };
 		2480A226297B56C50004D74B /* Embaixo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Embaixo.swift; sourceTree = "<group>"; };
+		2480A22829A030370004D74B /* HistoryDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 				2480A222297B52320004D74B /* ThinButtonLabel.swift */,
 				2480A224297B53690004D74B /* ScoreDices.swift */,
 				2480A226297B56C50004D74B /* Embaixo.swift */,
+				2480A22829A030370004D74B /* HistoryDetail.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 				2480A221297B501C0004D74B /* ScoreGrid.swift in Sources */,
 				2480A215297B43B70004D74B /* ButtonLabel.swift in Sources */,
 				2480A217297B456F0004D74B /* HistoryView.swift in Sources */,
+				2480A22929A030370004D74B /* HistoryDetail.swift in Sources */,
 				2480A219297B45BB0004D74B /* BoardView.swift in Sources */,
 				2480A21D297B4D350004D74B /* HomeView.swift in Sources */,
 				2480A213297B42A90004D74B /* Dice.swift in Sources */,
